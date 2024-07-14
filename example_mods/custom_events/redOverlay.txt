@@ -1,0 +1,1 @@
+value1: Es la opacidad por ejemplo 0.2 es muy poco 0.3 es maso menos poco 0.4 maso menos mucho, y 0.5 mucho basicamente
