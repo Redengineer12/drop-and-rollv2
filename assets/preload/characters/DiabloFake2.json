@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-3
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fake idle"
+		},
+		{
+			"offsets": [
+				161,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "fake left"
+		},
+		{
+			"offsets": [
+				-27,
+				-173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "fake down"
+		},
+		{
+			"offsets": [
+				118,
+				108
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "fake up"
+		},
+		{
+			"offsets": [
+				-40,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "fake right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fakediablo2",
+	"position": [
+		952,
+		400
+	],
+	"healthicon": "fakediablo",
+	"flip_x": false,
+	"healthbar_colors": [
+		23,
+		15,
+		120
+	],
+	"camera_position": [
+		-186,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1.30000000000002
+}

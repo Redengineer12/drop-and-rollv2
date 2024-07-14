@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rerun idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-9
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rerun left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-97
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rerun down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				42
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rerun up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-22
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rerun right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-22,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "rerun dodge"
+		},
+		{
+			"offsets": [
+				0,
+				15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "rerun hit"
+		},
+		{
+			"offsets": [
+				30,
+				95
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "rerun attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rerunBF",
+	"position": [
+		250,
+		490
+	],
+	"healthicon": "bfrerun",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		41,
+		54
+	],
+	"camera_position": [
+		-150,
+		-90
+	],
+	"sing_duration": 4,
+	"scale": 0.900000000000019
+}

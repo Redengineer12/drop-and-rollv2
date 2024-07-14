@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "rerunhurt idle"
+		},
+		{
+			"offsets": [
+				1,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "rerunhurt down"
+		},
+		{
+			"offsets": [
+				-6,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "rerunhurt up"
+		},
+		{
+			"offsets": [
+				-12,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "rerunhurt right"
+		},
+		{
+			"offsets": [
+				23,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "rerunhurt left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rerunBFhurt",
+	"position": [
+		450,
+		550
+	],
+	"healthicon": "bfrerun",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		41,
+		54
+	],
+	"camera_position": [
+		-80,
+		-70
+	],
+	"sing_duration": 4,
+	"scale": 1.10000000000002
+}

@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				284,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				118,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				258,
+				-95
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				133,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1195,
+				470
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "attack",
+			"indices": []
+		},
+		{
+			"offsets": [
+				215,
+				54
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "hurt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/diablo2",
+	"position": [
+		1355,
+		400
+	],
+	"healthicon": "diablo",
+	"flip_x": true,
+	"healthbar_colors": [
+		23,
+		15,
+		120
+	],
+	"camera_position": [
+		-1310,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1.10000000000002
+}

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				252,
+				-13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "alt right"
+		},
+		{
+			"offsets": [
+				250,
+				-91
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "alt down"
+		},
+		{
+			"offsets": [
+				128,
+				71
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "alt up"
+		},
+		{
+			"offsets": [
+				100,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "alt left"
+		},
+		{
+			"offsets": [
+				-5,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				81,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-12,
+				29
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				12,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-15,
+				73
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/diablo1",
+	"position": [
+		1355,
+		330
+	],
+	"healthicon": "diablo",
+	"flip_x": true,
+	"healthbar_colors": [
+		23,
+		15,
+		120
+	],
+	"camera_position": [
+		-685,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.10000000000002
+}
