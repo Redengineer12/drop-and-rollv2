@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sea2.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sea20000" x="0" y="0" width="1649" height="752" frameX="-8" frameY="0" frameWidth="1666" frameHeight="752"/>
+	<SubTexture name="sea20001" x="0" y="0" width="1649" height="752" frameX="-8" frameY="0" frameWidth="1666" frameHeight="752"/>
+	<SubTexture name="sea20002" x="0" y="0" width="1649" height="752" frameX="-8" frameY="0" frameWidth="1666" frameHeight="752"/>
+	<SubTexture name="sea20003" x="1649" y="0" width="1666" height="747" frameX="0" frameY="0" frameWidth="1666" frameHeight="752"/>
+	<SubTexture name="sea20004" x="1649" y="0" width="1666" height="747" frameX="0" frameY="0" frameWidth="1666" frameHeight="752"/>
+	<SubTexture name="sea20005" x="1649" y="0" width="1666" height="747" frameX="0" frameY="0" frameWidth="1666" frameHeight="752"/>
+	<SubTexture name="sea20006" x="0" y="752" width="1627" height="751" frameX="-17" frameY="-1" frameWidth="1666" frameHeight="752"/>
+	<SubTexture name="sea20007" x="0" y="752" width="1627" height="751" frameX="-17" frameY="-1" frameWidth="1666" frameHeight="752"/>
+	<SubTexture name="sea20008" x="0" y="752" width="1627" height="751" frameX="-17" frameY="-1" frameWidth="1666" frameHeight="752"/>
+</TextureAtlas>
